@@ -12,7 +12,7 @@
   * [x] by location (`time in New York`)
   * [ ] conversion (`2:30 pm HKT in Berlin`)
 * [x] Word operations (`times`, `divided by`, `plus` etc.)
-* [ ] Binary, octal, hexadecimal number conversion
+* [x] Binary, octal, hexadecimal number conversion
 * [x] Currency conversion
 * [ ] Percentage operations
   * ~~[ ] General (`10$ - 20 %`, `100 + 10%` etc.)~~
@@ -29,6 +29,6 @@
 * [x] Comments, headers, labels
 * [ ] Shortcuts
 * [ ] Operations history, import & export
-* [ ] Plugins system
+* [ ] Plugins system (**WIP**)
 * [x] Ability to add units (in-app)
 
