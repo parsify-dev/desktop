@@ -29,6 +29,6 @@
 * [x] Comments, headers, labels
 * [ ] Shortcuts
 * [ ] Operations history, import & export
-* [ ] Plugins system (**WIP**)
+* [x] Plugins system
 * [x] Ability to add units (in-app)
 
