@@ -18,7 +18,6 @@
   * ~~[ ] General (`10$ - 20 %`, `100 + 10%` etc.)~~
   * [x] General with word operators (`10% of 100`, `20% off 30 EUR` etc.)
   * [ ] More complicated operations (`$50 as a % of $100`, `5% of what is 6 EUR` etc.`)
-* [ ] Scales (`$2k`, `2M EUR`)
 * [x] Variables
 * [x] Constants
 * [x] Functions
@@ -27,8 +26,8 @@
 * [ ] Sum
 * [ ] Average
 * [x] Comments, headers, labels
-* [ ] Shortcuts
-* [ ] Operations history, import & export
+* [x] Shortcuts
+* [x] Import & export
 * [x] Plugins system
 * [x] Ability to add units (in-app)
 
