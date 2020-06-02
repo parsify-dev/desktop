@@ -7,7 +7,7 @@
 ## Roadmap
 
 * [x] Unit conversion
-* [ ] Time zone conversion
+* [ ] Time zone
   * [x] by zone (`PST time`)
   * [x] by location (`time in New York`)
   * [ ] conversion (`2:30 pm HKT in Berlin`)
