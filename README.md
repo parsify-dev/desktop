@@ -1,8 +1,10 @@
 # Parsify Desktop
 
-> Extendable calculator for the 21st Century, inspired by [Numi](https://numi.app) :zap:
+> Extendable calculator for the 21st Century :zap:
 
 ---
+
+[Website](https://parsify.app) • [Documentation](https://docs.parsify.app/) • [Changelog](https://headwayapp.co/parsify-changelog)
 
 ## Roadmap
 
