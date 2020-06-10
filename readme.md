@@ -23,7 +23,7 @@
 * [x] Constants
 * [x] Functions
 * [x] CSS units conversion
-* [ ] Previous result
+* [x] Previous result
 * [ ] Sum
 * [ ] Average
 * [x] Comments, headers, labels
