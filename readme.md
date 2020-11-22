@@ -24,8 +24,8 @@
 * [x] Functions
 * [x] CSS units conversion
 * [x] Previous result
-* [ ] Sum
-* [ ] Average
+* [x] Sum
+* [x] Average
 * [x] Comments, headers, labels
 * [x] Shortcuts
 * [x] Import & export
