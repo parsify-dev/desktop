@@ -1,10 +1,21 @@
-# Parsify Desktop
-
-> Extendable calculator for the 21st Century :zap:
-
----
+<div align="center">
+	<br>
+	<br>
+	<a href="https://parsify.app">
+		<img src="icon.png" width="200" height="200">
+	</a>
+	<h1>Parsify Desktop</h1>
+	<p>
+		<b>Extendable text calculator for the 21st Century :zap:</b>
+	</p>
+	<br>
+	<br>
+	<br>
+</div>
 
 [Website](https://parsify.app) • [Documentation](https://docs.parsify.app/) • [Changelog](https://headwayapp.co/parsify-changelog)
+
+---
 
 ## Roadmap
 
