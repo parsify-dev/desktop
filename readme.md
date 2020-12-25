@@ -10,15 +10,16 @@
 	</p>
 	<br>
 	<p>
-		<a href="https://parsify.app">Website</a>
+		<a href="https://parsify.app">💻 Website</a>
 		•
-		<a href="https://parsify.app">Documentation</a>
+		<a href="https://parsify.app">📄 Documentation</a>
 		•
-		<a href="https://parsify.app">Changelog</a>
+		<a href="https://parsify.app">📝 Changelog</a>
 	</p>
 	<br>
 	<br>
 	<br>
+	<img src="screenshot.png" width="70%">
 </div>
 
 ---
