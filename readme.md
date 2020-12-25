@@ -17,8 +17,6 @@
 		<a href="https://parsify.app">📝 Changelog</a>
 	</p>
 	<br>
-	<br>
-	<br>
 	<img src="screenshot.png" width="70%">
 </div>
 
