@@ -9,11 +9,17 @@
 		<b>Extendable text calculator for the 21st Century :zap:</b>
 	</p>
 	<br>
+	<p>
+		<a href="https://parsify.app">Website</a>
+		•
+		<a href="https://parsify.app">Documentation</a>
+		•
+		<a href="https://parsify.app">Changelog</a>
+	</p>
+	<br>
 	<br>
 	<br>
 </div>
-
-[Website](https://parsify.app) • [Documentation](https://docs.parsify.app/) • [Changelog](https://headwayapp.co/parsify-changelog)
 
 ---
 
