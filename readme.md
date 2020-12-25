@@ -22,6 +22,12 @@
 
 ---
 
+## Download
+
+You can install Parsify Desktop for free from the official website or using [GitHub Releases](https://github.com/parsify-dev/desktop/releases).
+
+The free version is limited in functionality, more details can be found on [this page](https://docs.parsify.app/miscellaneous/free-vs-activated). You can buy the license from the official site as well, supporting further development and unlocking additional features. **The license is free for students.**
+
 ## Roadmap
 
 * [x] Unit conversion
