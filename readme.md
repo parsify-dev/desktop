@@ -32,7 +32,7 @@ The free version is limited in functionality, more details can be found on [this
 
 * [x] Unit conversion
 * [ ] Time zone
-  * [x] by zone (`PST time`)
+  * [ ] by zone (`PST time`)
   * [x] by location (`time in New York`)
   * [ ] conversion (`2:30 pm HKT in Berlin`)
 * [x] Word operations (`times`, `divided by`, `plus` etc.)
