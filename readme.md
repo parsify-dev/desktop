@@ -12,9 +12,9 @@
 	<p>
 		<a href="https://parsify.app">💻 Website</a>
 		•
-		<a href="https://parsify.app">📄 Documentation</a>
+		<a href="https://docs.parsify.app">📄 Documentation</a>
 		•
-		<a href="https://parsify.app">📝 Changelog</a>
+		<a href="https://headwayapp.co/parsify-changelog">📝 Changelog</a>
 	</p>
 	<br>
 	<img src="screenshot.png" width="70%">
