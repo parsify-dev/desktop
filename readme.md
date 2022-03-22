@@ -40,4 +40,4 @@ Each release is tested on the latest version of macOS, Windows, and Linux Ubuntu
 
 ---
 
-##### Copyright © 2019-2022 [Antoni Kępiński](https://www.kepinski.ch)
+##### Copyright © 2019-2022 [Parsify Technologies](https://parsify.app/about). All Rights Reserved.
