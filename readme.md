@@ -1,12 +1,12 @@
 <div align="center">
 	<br>
 	<br>
-	<a href="https://parsify.app">
+	<a href="https://parsify.app/?ref=gh" target="_blank" rel="noreferrer noopener">
 		<img src="icon.png" width="200" height="200">
 	</a>
 	<h1>Parsify Desktop</h1>
 	<p>
-		<b>Extendable text calculator for the 21st Century :zap:</b>
+		<b>Next generation notepad-based calculator, built with extendibility and privacy in mind.</b>
 	</p>
 	<br>
 	<p>
@@ -17,7 +17,9 @@
 		<a href="https://headwayapp.co/parsify-changelog">📝 Changelog</a>
 	</p>
 	<br>
-	<img src="screenshot.png" width="70%">
+	<a href="https://parsify.app/?ref=gh" target="_blank" rel="noreferrer noopener">
+		<img src="screenshot.png" width="70%">
+	</a>
 </div>
 
 ---
